@@ -15,7 +15,7 @@
 
 
         <div class="container text-center p-4 rounded col-md-4 bg-light">
-            <h2 class="mb-3">Lista de Tarefas</h2>
+            <h2 class="mb-3">Tarefas</h2>
             <div class="mb-3 row justify-content-center">
                 <div class="col-md-8">
                     <input type="text" id="task" class="form-control" placeholder="Nova Tarefa">
